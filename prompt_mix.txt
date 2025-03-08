@@ -1,0 +1,7 @@
+Write a Python function that fits a finite mixture of normals with a
+specified # of components to univariate data, using the EM algorithm,
+and write a main program that tests it for data simulated from a known
+mixture distribution. Write a function to display the parameters in a
+formatted table. Use the function to display the true and estimated
+parameters. Use numpy if helpful. Use the print function to
+display results, using to_string() for a pandas dataframe.

@@ -1,0 +1,9 @@
+model: qwen-2.5-coder-32b
+max_attempts: 10
+max_time: 1000
+prompt_file: prompt_mix.txt
+source_file: main.py
+print_output: yes
+print_code: no
+print_runtime_error_messages: yes
+interpreter: python
