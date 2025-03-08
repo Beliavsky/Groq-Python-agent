@@ -1,5 +1,5 @@
 # Groq-Python-agent
-Python script that uses Groq to create Python programs, iterating until they run to completion. Sample output:
+Python script that uses LLMs on Groq to create Python programs, iterating until they run to completion. Sample output:
 
 ```
 prompt:
